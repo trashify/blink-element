@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/tiaanduplessis/blink-element"><img width="75%" src="media/blink.gif" alt="Blink - Simple module to make DOM element blink"></a>
+	<a href="https://tiaanduplessis.github.io/blink-element/"><img width="75%" src="media/blink.gif" alt="Blink - Simple module to make DOM element blink"></a>
 </p>
 
 
@@ -21,9 +21,21 @@
 
 ## Install
 
+Install with cdn
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/blink-element/lib/blink.js">
+<!-- Or -->
+<link rel="stylesheet" href="https://cdn.rawgit.com/tiaanduplessis/blink-element/master/lib/blink.js">
+```
+
+Install with npm
+
 ```sh
 $ npm install --save blink-element
 ```
+
+Install with yarn
 
 ```sh
 $ yarn add blink-element
