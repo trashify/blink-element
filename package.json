@@ -8,6 +8,9 @@
     "url": "https://github.com/tiaanduplessis/blink-element.git"
   },
   "main": "lib/blink.js",
+  "files": [
+    "lib"
+  ],
   "homepage": "https://github.com/tiaanduplessis/blink-element",
   "bugs": "https://github.com/tiaanduplessis/blink-element/issues",
   "author": "Tiaan du Plessis (tiaanduplessis@hotmail.com)",
